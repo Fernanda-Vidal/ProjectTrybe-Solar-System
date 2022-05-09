@@ -4,7 +4,7 @@ class Missions extends React.Component {
   render() {
     return (
       <div data-testid="missions">
-        <Missions headline="Missões" />
+        {/* <Missions headline="Missões" /> */}
       </div>
     );
   }
